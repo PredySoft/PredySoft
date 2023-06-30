@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PredySoft
 - 👀 I’m interested in family, parkour, sports and volunteering, programming, making movies and animations and flying RC quadcopters.
 - 🌱 I’m currently learning Python, Flask, MS Azure Power apps and Automate, DevOps.
-- 💞️ I’m looking to collaborate on projects supporting donations volunteering especially engaged in Sokol to fundraise reconstructions of sokolovna Radoškov and Přibyslavice.
+- 💞️ I’m supporting donations an volunteering especially engaged in Sokol Gyms for kids from village to fundraise sports infrastructure for them. See more about them here: https://www.youtube.com/watch?v=afYC65nHz40
 - 📫 How to reach me. @Predysoft on Twitter.
 
 <!---
